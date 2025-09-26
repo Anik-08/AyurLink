@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import AyurLinkSearch from "../component/AyurLinkSearch";
 
 export default function Home() {
